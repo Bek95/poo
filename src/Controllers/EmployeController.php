@@ -1,8 +1,9 @@
 <?php
 
-namespace Controllers;
+namespace App\Controllers;
 
 use Models\Employe;
+
 class EmployeController
 {
     public function __construct()
