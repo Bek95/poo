@@ -25,7 +25,6 @@ class HomeController {
             echo $e->getMessage();
         }
 
-
         echo "Bienvenue dans la page de test";
     }
 }
